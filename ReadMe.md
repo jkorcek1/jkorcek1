@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 O mně:
 Právě nemám rozdělané nové projekty, avšak pracuji na miniprojektu v rámci výuky.<br>Plánuji rozvíjet projekty spojené s výukou, jako jsou webové stránky školy, specifické aplikace, nové programovací jazyky.<br>Teď pohledávám nové možnosti seberozvoje, přemýšlím o ročníkové práci.<br>Nyní jsem ve stádiu neustálého učení, kdy se učím HTML5, CSS3, Javascript, Node.js, Python, Git.<br>Nejvíce ze všeho mě baví dokončit projekt, nebo začít od znovu jiný. Vidět za sebou nějakou práci je vždy uklidňující.<br>Programovat není nejlehčí, ale logika, správnost a efektivnost je mnohdy velice podceňovaná a zanedbávaná.
 
 
