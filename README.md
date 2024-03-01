@@ -9,7 +9,7 @@
 ## 🌐 Sociální sítě:
 <p><b>
   <a href="https://instagram.com/jkorcek_scrt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="www.linkedin.com/in/jan-korček-681b37286"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jan-kor%C4%8Dek-681b37286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/23172745"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="https://twitch.tv/korcekj"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a> 
   <a href="https://x.com/korcekj"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
