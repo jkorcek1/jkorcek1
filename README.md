@@ -7,12 +7,12 @@
 🦾Programovat není nejlehčí, ale logika, správnost a efektivnost je mnohdy velice podceňovaná a zanedbávaná.
 
 ## 🌐 Sociální sítě:
-<p target="blank"><b>
-  <a href="https://instagram.com/jkorcek_scrt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="www.linkedin.com/in/jan-korček-681b37286"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/23172745"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="https://twitch.tv/korcekj"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a> 
-  <a href="https://x.com/korcekj"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
+<p><b>
+  <a href="https://instagram.com/jkorcek_scrt" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="www.linkedin.com/in/jan-korček-681b37286" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/23172745" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="https://twitch.tv/korcekj" target="blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a> 
+  <a href="https://x.com/korcekj" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
 </b></p>
 
 ## 💻 Tech Stack:
