@@ -1,10 +1,9 @@
 # 🧐 O mně:
-📂 Právě nemám rozdělané nové projekty, avšak pracuji na miniprojektu v rámci výuky.<br>
-📑 Plánuji rozvíjet projekty spojené s výukou, jako jsou webové stránky školy, specifické aplikace, nové programovací jazyky.<br>
-📝 Teď pohledávám nové možnosti seberozvoje, přemýšlím o ročníkové práci.<br>
-🤓 Nyní jsem ve stádiu neustálého učení, kdy se učím HTML5, CSS3, Javascript, Node.js, Python, Git.<br>
-💯 Nejvíce ze všeho mě baví dokončit projekt, nebo začít od znovu jiný. Vidět za sebou nějakou práci je vždy uklidňující.<br>
-🦾Programovat není nejlehčí, ale logika, správnost a efektivnost je mnohdy velice podceňovaná a zanedbávaná.
+📑 Mladý, nezkušený, neustále online, student IT na střední škole.<br>
+📂 Právě {0} rozdělaných projektů, avšak částečně pracuji na miniprojektu v rámci výuky.<br>
+🤓 Rozvoj v poli programovacích jazyků je nezastavitelný, ale u mě pomalý, kdy se učím HTML5, CSS3, Javascript, Node.js, Python, Git.<br>
+💯 Úleva po dokončení projektu, nebo začátek zcela nového je motor a denní motivace. Vidět za sebou nějakou práci je vždy uklidňující.<br>
+🦾 Efektivně a 'správně' programovat je těžké, s tím je logika mnohdy velice podceňovaná a nesmyslná.
 
 ## 💻 Tech Stack:
 <p align="center"><b><a href="#">
